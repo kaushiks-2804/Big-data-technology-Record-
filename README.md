@@ -1,3 +1,3 @@
 Name : Kaushik
 Dept : AIML A
-Roll nuber : 211501041
+Roll number : 211501041
